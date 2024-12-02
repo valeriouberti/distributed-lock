@@ -1,0 +1,16 @@
+node_modules
+.vscode
+build
+files
+dist
+config/Config.d.ts
+test.json
+.idea
+
+**/.scannerwork/*
+**/coverage/*
+**/reports/*
+**/target
+**/tmp/*
+coverage/
+test-report.xml
